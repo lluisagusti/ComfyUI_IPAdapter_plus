@@ -3,7 +3,7 @@
 
 The IPAdapter are very powerful models for image-to-image conditioning. The subject or even just the style of the reference image(s) can be easily transferred to a generation. Think of it as a 1-image lora.
 
-# Sponsorship
+# Sponsorship 
 
 <div align="center">
 
